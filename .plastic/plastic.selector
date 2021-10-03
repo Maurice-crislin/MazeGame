@@ -1,0 +1,4 @@
+repository "Maze@ssl://wechat_os_qy0xbwwciillsj9ahpglmc3hg@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/3231443956" 
+     
